@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HsDsFXa6qAa1v0yhTFFT+SePzz6p9TYXImu/LrxMYWbfXNvT4Mwleo4+erLoH2x1jWJd+qu3QI3FJ58xezh6qg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vgost\\source\\repos\\RayTracing\\RayTracing\\RayTracing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vgost\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\5.0.6\\microsoft.netcore.app.runtime.win-x64.5.0.6.nupkg.sha512",
+    "C:\\Users\\vgost\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.6\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.6.nupkg.sha512",
+    "C:\\Users\\vgost\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.6\\microsoft.aspnetcore.app.runtime.win-x64.5.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

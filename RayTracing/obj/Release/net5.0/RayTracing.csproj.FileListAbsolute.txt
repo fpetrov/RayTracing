@@ -1,0 +1,16 @@
+C:\Users\vgost\source\repos\RayTracing\RayTracing\bin\Release\net5.0\RayTracing.exe
+C:\Users\vgost\source\repos\RayTracing\RayTracing\bin\Release\net5.0\RayTracing.deps.json
+C:\Users\vgost\source\repos\RayTracing\RayTracing\bin\Release\net5.0\RayTracing.runtimeconfig.json
+C:\Users\vgost\source\repos\RayTracing\RayTracing\bin\Release\net5.0\RayTracing.runtimeconfig.dev.json
+C:\Users\vgost\source\repos\RayTracing\RayTracing\bin\Release\net5.0\RayTracing.dll
+C:\Users\vgost\source\repos\RayTracing\RayTracing\bin\Release\net5.0\ref\RayTracing.dll
+C:\Users\vgost\source\repos\RayTracing\RayTracing\bin\Release\net5.0\RayTracing.pdb
+C:\Users\vgost\source\repos\RayTracing\RayTracing\obj\Release\net5.0\RayTracing.csproj.AssemblyReference.cache
+C:\Users\vgost\source\repos\RayTracing\RayTracing\obj\Release\net5.0\RayTracing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vgost\source\repos\RayTracing\RayTracing\obj\Release\net5.0\RayTracing.AssemblyInfoInputs.cache
+C:\Users\vgost\source\repos\RayTracing\RayTracing\obj\Release\net5.0\RayTracing.AssemblyInfo.cs
+C:\Users\vgost\source\repos\RayTracing\RayTracing\obj\Release\net5.0\RayTracing.csproj.CoreCompileInputs.cache
+C:\Users\vgost\source\repos\RayTracing\RayTracing\obj\Release\net5.0\RayTracing.dll
+C:\Users\vgost\source\repos\RayTracing\RayTracing\obj\Release\net5.0\ref\RayTracing.dll
+C:\Users\vgost\source\repos\RayTracing\RayTracing\obj\Release\net5.0\RayTracing.pdb
+C:\Users\vgost\source\repos\RayTracing\RayTracing\obj\Release\net5.0\RayTracing.genruntimeconfig.cache

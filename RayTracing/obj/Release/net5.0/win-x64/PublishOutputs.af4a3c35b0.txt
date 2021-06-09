@@ -1,0 +1,2 @@
+C:\Users\vgost\source\repos\RayTracing\RayTracing\bin\Release\net5.0\publish\RayTracing.pdb
+C:\Users\vgost\source\repos\RayTracing\RayTracing\bin\Release\net5.0\publish\RayTracing.exe
